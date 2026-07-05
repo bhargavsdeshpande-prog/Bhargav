@@ -1,0 +1,15 @@
+{
+    "What is Python?": "Python is a popular programming language.",
+    "What is AI?": "AI stands for Artificial Intelligence.",
+    "What is Machine Learning?": "Machine Learning allows computers to learn from data.",
+    "What is VS Code?": "VS Code is a code editor developed by Microsoft.",
+    "What is Java?": "Java is an object-oriented programming language.",
+    "What is HTML?": "HTML is used to create web pages.",
+    "What is CSS?": "CSS is used to style web pages.",
+    "What is JavaScript?": "JavaScript makes websites interactive.",
+    "What is Flask?": "Flask is a lightweight Python web framework.",
+    "What is Django?": "Django is a high-level Python web framework.",
+    "What is SQL?": "SQL is used to manage and query databases.",
+    "What is Git?": "Git is a version control system.",
+    "What is GitHub?": "GitHub is a platform for hosting Git repositories."
+}
